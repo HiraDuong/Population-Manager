@@ -185,7 +185,50 @@ html{
     top :80px;
     left: 20%;
 }
+    /* INFORTABLE */
+    .infortable {
+        display: flex;
 
+    }
+    .infortable>li{
+        display: inline-block;
+        height: 60px;
+        font-size: 20px;
+        
+    }
+        /* TA */
+        #ta1{
+            width: 80px;
+            background-color: #08fbff;
+        }
+        #ta2{
+            width: 150px;
+            background-color: #CCC;
+        }
+        #ta3{
+            width: 250px;
+            background-color: antiquewhite;
+        }
+        #ta4{
+            width: 60px;
+            background-color: aliceblue;
+        }
+        #ta5{
+            width: 80px;
+            background-color: rgb(39, 132, 214);
+        }
+        #ta6{
+            width: 150px;
+            background-color: rgb(202, 152, 223);
+        }
+        #ta7{
+            width: 300px;
+            background-color: rgb(110, 190, 138);
+        }
+        #ta8{
+            width: 80px;
+            background-color: aliceblue;
+        }
 /* FOOTER */
 #footer{
     background-color: rgb(251, 255, 3);
